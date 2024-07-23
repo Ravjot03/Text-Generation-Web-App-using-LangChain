@@ -2,7 +2,7 @@ from flask import Flask, request, render_template
 from langchain_google_genai import GoogleGenerativeAI
 
 app = Flask(__name__)
-api_key = "AIzaSyDMQUwZWlZlyyriw0YVZRDJ5A8hP-1X_tQ"
+api_key = "google-api-key"
 
 llm = GoogleGenerativeAI(model="gemini-1.5-pro", google_api_key=api_key)
 
