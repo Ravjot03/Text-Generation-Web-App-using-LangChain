@@ -12,3 +12,12 @@ This project showcases an AI-Powered Text Generator built using Flask, the Googl
 - **Idea Generation**: Assist writers, marketers, and creatives in brainstorming and developing new ideas.
 - **Educational Tools**: Aid in creating educational materials, summaries, and explanations.
 - **Customer Support**: Provide automated responses and support content for customer service applications.
+
+## Web App
+
+### Input 
+<img width="1470" alt="Screenshot 2024-07-22 at 3 30 47 PM" src="https://github.com/user-attachments/assets/bddab513-58a1-4ba2-9176-160ca69ba3d1">
+
+
+### Output
+<img width="1470" alt="Screenshot 2024-07-22 at 3 27 40 PM" src="https://github.com/user-attachments/assets/a609b2e1-24c5-4cad-8471-ef3ebb9bfe93">
